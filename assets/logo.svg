@@ -1,10 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 72" role="img" aria-labelledby="title desc">
 <title id="title">Hundeide Stubbefresing</title>
-<desc id="desc">Logo med stilisert stubbe og teksten Hundeide Stubbefresing</desc>
+<desc id="desc">En stilisert trestubbe med årringer og oransje freseskive, sammen med navnet Hundeide Stubbefresing.</desc>
 <rect x="2" y="2" width="68" height="68" rx="22" fill="#17261e"/>
-<path d="M15 42c7-5 12-5 18 0s11 5 17 0 8-4 12-3" fill="none" stroke="#c7d99b" stroke-width="3.8" stroke-linecap="round"/>
-<path d="M19 34h34M24 25h24M30 16h12M36 16v18" fill="none" stroke="#fffefa" stroke-width="3.8" stroke-linecap="round"/>
-<path d="M15 53h48" stroke="#f36b24" stroke-width="4" stroke-linecap="round"/>
+<path d="M18 33c3 6 7 9 16 9s13-3 16-9l-3 19c-7 5-18 5-26 0z" fill="#c7d99b"/>
+<path d="M18 33c0-5 7-10 16-10s16 5 16 10-7 9-16 9-16-4-16-9z" fill="#d9bd87"/>
+<ellipse cx="34" cy="32" rx="11.5" ry="6.2" fill="#fffefa"/>
+<ellipse cx="34" cy="32" rx="7" ry="3.5" fill="none" stroke="#17261e" stroke-width="2"/>
+<ellipse cx="34" cy="32" rx="2.7" ry="1.4" fill="none" stroke="#17261e" stroke-width="1.6"/>
+<path d="M23 44v7m8-7v9m8-9v8" stroke="#87996e" stroke-width="2" stroke-linecap="round"/>
+<path d="M50 38v-3m7 7 2-2m1 9h3m-6 6 2 2m-9 1v3m-7-6-2 2" fill="none" stroke="#f36b24" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="50" cy="49" r="7.5" fill="#f36b24"/>
+<circle cx="50" cy="49" r="2.5" fill="#17261e"/>
 <text x="88" y="34" fill="#17261e" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="800" letter-spacing="-1">HUNDEIDE</text>
 <text x="89" y="55" fill="#66736a" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">STUBBEFRESING</text>
 </svg>
