@@ -3,7 +3,9 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
 
 /* Clear, higher-contrast copy and practical local search content */
-.area-inner p,.section-heading>p,.contact-copy>p,.method-intro>p{color:#405467}
+.area-inner p,.section-heading>p,.contact-copy>p{color:#405467}
+.method-intro h2{color:#f5f9fc}
+.method-intro>p{color:#d2e0e9}
 .area-tags span{color:#31495d;border-color:#b8ccd9}
 .area-note small,.area-note strong{color:#354d60}
 .steps p{color:#d2e0e9}
