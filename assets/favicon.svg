@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="title"><title id="title">Hundeide Stubbefresing</title><rect x="2" y="2" width="68" height="68" rx="22" fill="#17261e"/>
-<path d="M35 34 23 19c-2-3-5-4-9-3l-2 1m10 2-1-7m-8 6 6 6" fill="none" stroke="#f36b24" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="m34 33 9 6 9 11" fill="none" stroke="#f36b24" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="m27 34 7-8h11l5 9-3 11H29l-4-6z" fill="#fffefa"/>
-<path d="M32 30h9l3 4h-14z" fill="#c7d99b"/>
-<path d="M29 38h15" stroke="#87996e" stroke-width="2" stroke-linecap="round"/>
-<circle cx="27" cy="52" r="9" fill="#fffefa"/>
-<circle cx="27" cy="52" r="5.4" fill="#87996e"/>
-<circle cx="27" cy="52" r="2" fill="#17261e"/>
-<path d="M43 46h8" stroke="#f36b24" stroke-width="4" stroke-linecap="round"/>
-<circle cx="55" cy="53" r="8" fill="#f36b24"/>
-<circle cx="55" cy="53" r="4.5" fill="#fffefa"/>
-<circle cx="55" cy="53" r="1.8" fill="#17261e"/>
-<path d="m53 43 1-2m8 9 2-1m-8 11 1 2" stroke="#fffefa" stroke-width="1.8" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="2" y="2" width="60" height="60" rx="30" fill="#fff" stroke="#1264a3" stroke-width="3"/><text x="32" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-2" fill="#1264a3">HS</text></svg>
