@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="HS Gruppen">
-  <rect x="4" y="4" width="120" height="120" rx="34" fill="#173d37"/>
+  <rect x="4" y="4" width="120" height="120" rx="34" fill="#1264a3"/>
   <path d="M24 35v58m0-29h31m0-29v58" fill="none" stroke="#f6f5ef" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M98 43H82a10 10 0 0 0 0 20h11a10 10 0 0 1 0 20H74" fill="none" stroke="#f6f5ef" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M102 17l3.2 8.8L114 29l-8.8 3.2L102 41l-3.2-8.8L90 29l8.8-3.2L102 17z" fill="#c7d978"/>
